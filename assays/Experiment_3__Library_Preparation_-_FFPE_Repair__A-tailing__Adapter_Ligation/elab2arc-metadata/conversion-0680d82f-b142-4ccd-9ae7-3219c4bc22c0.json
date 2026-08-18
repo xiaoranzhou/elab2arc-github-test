@@ -1,0 +1,46 @@
+{
+  "conversionId": "0680d82f-b142-4ccd-9ae7-3219c4bc22c0",
+  "timestamp": {
+    "start": "2026-08-18T11:39:43.887Z",
+    "end": "2026-08-18T11:39:43.899Z",
+    "duration": 12
+  },
+  "source": {
+    "elabftw": {
+      "experimentId": 42,
+      "title": "Experiment 3: Library Preparation - FFPE Repair, A-tailing, Adapter Ligation",
+      "author": "elab elab",
+      "team": "Default team",
+      "instance": "https://elab.dataplan.top/api/v2/",
+      "type": "experiment"
+    }
+  },
+  "llm": {
+    "enabled": false,
+    "reason": "LLM datamap generation was disabled for this conversion"
+  },
+  "results": {
+    "status": "llm_disabled",
+    "samplesExtracted": 0,
+    "protocolsExtracted": 0,
+    "errors": [],
+    "warnings": []
+  },
+  "files": {
+    "protocolPath": "protocols/eLabFTW_protocol_42_Experiment_3_Library_Preparati.elab2arc.md",
+    "isaPath": "isa.assay.xlsx",
+    "dataFiles": [
+      "dataset/Primer_sequences_47.elab2arc.txt"
+    ]
+  },
+  "tool": {
+    "name": "elab2arc",
+    "version": "1.0.0",
+    "coreFile": "elab2arc-core1006b.js",
+    "modules": [
+      "llm-service1007.js",
+      "conversion-metadata1000.js",
+      "isa-generation-20260422-1145.js"
+    ]
+  }
+}
