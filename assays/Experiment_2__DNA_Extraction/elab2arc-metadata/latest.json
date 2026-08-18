@@ -1,0 +1,46 @@
+{
+  "conversionId": "bfd3b214-50fb-49e3-a6be-f2d789b764e6",
+  "timestamp": {
+    "start": "2026-08-18T11:39:38.803Z",
+    "end": "2026-08-18T11:39:38.818Z",
+    "duration": 15
+  },
+  "source": {
+    "elabftw": {
+      "experimentId": 41,
+      "title": "Experiment 2: DNA Extraction",
+      "author": "elab elab",
+      "team": "Default team",
+      "instance": "https://elab.dataplan.top/api/v2/",
+      "type": "experiment"
+    }
+  },
+  "llm": {
+    "enabled": false,
+    "reason": "LLM datamap generation was disabled for this conversion"
+  },
+  "results": {
+    "status": "llm_disabled",
+    "samplesExtracted": 0,
+    "protocolsExtracted": 0,
+    "errors": [],
+    "warnings": []
+  },
+  "files": {
+    "protocolPath": "protocols/eLabFTW_protocol_41_Experiment_2_DNA_Extraction.elab2arc.md",
+    "isaPath": "isa.assay.xlsx",
+    "dataFiles": [
+      "dataset/2025-07-02_DNAExtractionpicture_45.elab2arc.png"
+    ]
+  },
+  "tool": {
+    "name": "elab2arc",
+    "version": "1.0.0",
+    "coreFile": "elab2arc-core1006b.js",
+    "modules": [
+      "llm-service1007.js",
+      "conversion-metadata1000.js",
+      "isa-generation-20260422-1145.js"
+    ]
+  }
+}
