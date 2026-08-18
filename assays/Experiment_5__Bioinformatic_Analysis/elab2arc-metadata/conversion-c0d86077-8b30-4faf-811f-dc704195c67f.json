@@ -1,0 +1,46 @@
+{
+  "conversionId": "c0d86077-8b30-4faf-811f-dc704195c67f",
+  "timestamp": {
+    "start": "2026-08-18T11:39:53.611Z",
+    "end": "2026-08-18T11:39:53.623Z",
+    "duration": 12
+  },
+  "source": {
+    "elabftw": {
+      "experimentId": 44,
+      "title": "Experiment 5: Bioinformatic Analysis",
+      "author": "elab elab",
+      "team": "Default team",
+      "instance": "https://elab.dataplan.top/api/v2/",
+      "type": "experiment"
+    }
+  },
+  "llm": {
+    "enabled": false,
+    "reason": "LLM datamap generation was disabled for this conversion"
+  },
+  "results": {
+    "status": "llm_disabled",
+    "samplesExtracted": 0,
+    "protocolsExtracted": 0,
+    "errors": [],
+    "warnings": []
+  },
+  "files": {
+    "protocolPath": "protocols/eLabFTW_protocol_44_Experiment_5_Bioinformatic_Ana.elab2arc.md",
+    "isaPath": "isa.assay.xlsx",
+    "dataFiles": [
+      "dataset/Screenshot-2025-06-18-124708_48.elab2arc.png"
+    ]
+  },
+  "tool": {
+    "name": "elab2arc",
+    "version": "1.0.0",
+    "coreFile": "elab2arc-core1006b.js",
+    "modules": [
+      "llm-service1007.js",
+      "conversion-metadata1000.js",
+      "isa-generation-20260422-1145.js"
+    ]
+  }
+}
