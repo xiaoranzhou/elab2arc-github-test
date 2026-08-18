@@ -1,0 +1,44 @@
+{
+  "conversionId": "f4680ecf-235e-4b24-986e-08dd2fa04c7a",
+  "timestamp": {
+    "start": "2026-08-18T11:39:48.323Z",
+    "end": "2026-08-18T11:39:48.333Z",
+    "duration": 10
+  },
+  "source": {
+    "elabftw": {
+      "experimentId": 43,
+      "title": "Experiment 4: Sequencing Run",
+      "author": "elab elab",
+      "team": "Default team",
+      "instance": "https://elab.dataplan.top/api/v2/",
+      "type": "experiment"
+    }
+  },
+  "llm": {
+    "enabled": false,
+    "reason": "LLM datamap generation was disabled for this conversion"
+  },
+  "results": {
+    "status": "llm_disabled",
+    "samplesExtracted": 0,
+    "protocolsExtracted": 0,
+    "errors": [],
+    "warnings": []
+  },
+  "files": {
+    "protocolPath": "protocols/eLabFTW_protocol_43_Experiment_4_Sequencing_Run.elab2arc.md",
+    "isaPath": "isa.assay.xlsx",
+    "dataFiles": []
+  },
+  "tool": {
+    "name": "elab2arc",
+    "version": "1.0.0",
+    "coreFile": "elab2arc-core1006b.js",
+    "modules": [
+      "llm-service1007.js",
+      "conversion-metadata1000.js",
+      "isa-generation-20260422-1145.js"
+    ]
+  }
+}
