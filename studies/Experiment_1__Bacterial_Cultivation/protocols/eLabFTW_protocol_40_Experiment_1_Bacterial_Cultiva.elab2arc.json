@@ -1,0 +1,510 @@
+{
+  "samples": [
+    {
+      "name": "Sample_1",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_2",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_3",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_4",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_5",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_6",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_7",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_8",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_9",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    },
+    {
+      "name": "Sample_10",
+      "organism": "E. coli",
+      "characteristics": [
+        {
+          "category": "strain",
+          "value": "K-12",
+          "unit": "",
+          "termSource": "NCBI",
+          "termAccession": ""
+        },
+        {
+          "category": "medium",
+          "value": "LB broth",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        },
+        {
+          "category": "inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "termSource": "",
+          "termAccession": ""
+        }
+      ]
+    }
+  ],
+  "protocols": [
+    {
+      "name": "Inoculation",
+      "description": "Dilute overnight culture 1:100 into fresh LB broth",
+      "inputs": [
+        "Sample_1",
+        "Sample_2",
+        "Sample_3",
+        "Sample_4",
+        "Sample_5",
+        "Sample_6",
+        "Sample_7",
+        "Sample_8",
+        "Sample_9",
+        "Sample_10"
+      ],
+      "parameters": [
+        {
+          "name": "Inoculation dilution",
+          "value": "1:100",
+          "unit": "",
+          "description": "Ratio of overnight culture to fresh medium"
+        },
+        {
+          "name": "Medium volume",
+          "value": "10",
+          "unit": "mL",
+          "description": "Volume of LB broth per culture"
+        }
+      ],
+      "outputs": [
+        "Inoculated_Sample_1",
+        "Inoculated_Sample_2",
+        "Inoculated_Sample_3",
+        "Inoculated_Sample_4",
+        "Inoculated_Sample_5",
+        "Inoculated_Sample_6",
+        "Inoculated_Sample_7",
+        "Inoculated_Sample_8",
+        "Inoculated_Sample_9",
+        "Inoculated_Sample_10"
+      ],
+      "dataFiles": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Growth",
+      "description": "Incubate inoculated cultures at 37 °C, 180 rpm for 16 h",
+      "inputs": [
+        "Inoculated_Sample_1",
+        "Inoculated_Sample_2",
+        "Inoculated_Sample_3",
+        "Inoculated_Sample_4",
+        "Inoculated_Sample_5",
+        "Inoculated_Sample_6",
+        "Inoculated_Sample_7",
+        "Inoculated_Sample_8",
+        "Inoculated_Sample_9",
+        "Inoculated_Sample_10"
+      ],
+      "parameters": [
+        {
+          "name": "Temperature",
+          "value": "37",
+          "unit": "°C",
+          "description": "Incubation temperature"
+        },
+        {
+          "name": "Shaking speed",
+          "value": "180",
+          "unit": "rpm",
+          "description": "Orbital shaker speed"
+        },
+        {
+          "name": "Incubation time",
+          "value": "16",
+          "unit": "h",
+          "description": "Total incubation duration"
+        }
+      ],
+      "outputs": [
+        "Grown_Sample_1",
+        "Grown_Sample_2",
+        "Grown_Sample_3",
+        "Grown_Sample_4",
+        "Grown_Sample_5",
+        "Grown_Sample_6",
+        "Grown_Sample_7",
+        "Grown_Sample_8",
+        "Grown_Sample_9",
+        "Grown_Sample_10"
+      ],
+      "dataFiles": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Sampling and OD Measurement",
+      "description": "Take hourly OD600 measurements for 8 h and record data",
+      "inputs": [
+        "Grown_Sample_1",
+        "Grown_Sample_2",
+        "Grown_Sample_3",
+        "Grown_Sample_4",
+        "Grown_Sample_5",
+        "Grown_Sample_6",
+        "Grown_Sample_7",
+        "Grown_Sample_8",
+        "Grown_Sample_9",
+        "Grown_Sample_10"
+      ],
+      "parameters": [
+        {
+          "name": "Measurement interval",
+          "value": "1",
+          "unit": "h",
+          "description": "Time between OD measurements"
+        },
+        {
+          "name": "Total measurement hours",
+          "value": "8",
+          "unit": "h",
+          "description": "Duration of sampling period"
+        },
+        {
+          "name": "OD600 unit",
+          "value": "",
+          "unit": "",
+          "description": "Optical density at 600 nm"
+        }
+      ],
+      "outputs": [
+        "OD_Measurement_1",
+        "OD_Measurement_2",
+        "OD_Measurement_3",
+        "OD_Measurement_4",
+        "OD_Measurement_5",
+        "OD_Measurement_6",
+        "OD_Measurement_7",
+        "OD_Measurement_8",
+        "OD_Measurement_9",
+        "OD_Measurement_10"
+      ],
+      "dataFiles": [
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx",
+        "OD_measurements.xlsx"
+      ]
+    },
+    {
+      "name": "Harvest",
+      "description": "Centrifuge cultures at 5,000 g for 10 min at 4 °C to collect cells for DNA extraction",
+      "inputs": [
+        "Grown_Sample_1",
+        "Grown_Sample_2",
+        "Grown_Sample_3",
+        "Grown_Sample_4",
+        "Grown_Sample_5",
+        "Grown_Sample_6",
+        "Grown_Sample_7",
+        "Grown_Sample_8",
+        "Grown_Sample_9",
+        "Grown_Sample_10"
+      ],
+      "parameters": [
+        {
+          "name": "Centrifuge speed",
+          "value": "5000",
+          "unit": "g",
+          "description": "Relative centrifugal force"
+        },
+        {
+          "name": "Centrifuge time",
+          "value": "10",
+          "unit": "min",
+          "description": "Duration of centrifugation"
+        },
+        {
+          "name": "Centrifuge temperature",
+          "value": "4",
+          "unit": "°C",
+          "description": "Temperature during centrifugation"
+        }
+      ],
+      "outputs": [
+        "Pelleted_Cells_1",
+        "Pelleted_Cells_2",
+        "Pelleted_Cells_3",
+        "Pelleted_Cells_4",
+        "Pelleted_Cells_5",
+        "Pelleted_Cells_6",
+        "Pelleted_Cells_7",
+        "Pelleted_Cells_8",
+        "Pelleted_Cells_9",
+        "Pelleted_Cells_10"
+      ],
+      "dataFiles": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
